@@ -15,43 +15,43 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Java Developer</h4>
+                <h5>Etsy</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2018 - 2021</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Developed high-throughput backend services using Java 8, Spring Boot,
+              and Hibernate for e-commerce systems. Built microservices-based platforms
+              and integrated Apache Kafka for real-time order and payment updates.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Full Stack Java Developer</h4>
+                <h5>DMI</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2021 - 2023</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Designed RESTful APIs and microservices for healthcare and financial systems.
+              Built scalable UIs using React and Angular 13. Implemented data streaming 
+              with Kafka and automated deployments using CI/CD pipelines.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Senior Full Stack Java Developer</h4>
+                <h5>Molina Healthcare</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Architecting microservices using Java 21, Spring Boot, and GraphQL.
+              Delivering secure web apps using Angular 17. Implementing AWS cloud
+              deployments and managing event-driven workflows with Kafka and Kubernetes.
             </p>
           </div>
         </div>

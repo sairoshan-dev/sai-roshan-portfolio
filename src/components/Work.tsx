@@ -5,33 +5,33 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Solid Starters",
-    category: "Low-Code Platform",
-    tools: "Angular, Next.js, NestJS, MongoDB",
+    title: "Healthcare Provider Portal",
+    category: "Healthcare Application",
+    tools: "Angular 17, Java 21, Spring Boot, GraphQL",
     image: "/images/Solidx.png",
   },
   {
-    title: "Radix",
-    category: "E-Commerce",
-    tools: "Angular, Next.js, NestJS, CMS",
+    title: "Financial Billing Engine",
+    category: "Financial Services",
+    tools: "Java, Spring Cloud, Kafka, PostgreSQL",
     image: "/images/radix.png",
   },
   {
-    title: "Bond Cancellation",
-    category: "Import-Export Automation",
-    tools: "Angular, Next.js, NestJS, Workflows",
+    title: "Member Enrollment Platform",
+    category: "Data Streaming",
+    tools: "React, Spring Boot, NiFi, Apache Airflow",
     image: "/images/bond.png",
   },
   {
-    title: "Sapphire",
-    category: "CRM Platform",
-    tools: "AngularJS, NestJS, PostgreSQL",
+    title: "E-Commerce Payments",
+    category: "E-Commerce",
+    tools: "Java 8, Hibernate, RabbitMQ, MongoDB",
     image: "/images/sapphire.png",
   },
   {
-    title: "Mpro",
-    category: "Insurance Platform",
-    tools: "React.js, Node.js, Microservices",
+    title: "Insurance Operations Core",
+    category: "Microservices Platform",
+    tools: "Java 11, Node.js, Docker, Kubernetes",
     image: "/images/Maxlife.png",
   },
 ];
